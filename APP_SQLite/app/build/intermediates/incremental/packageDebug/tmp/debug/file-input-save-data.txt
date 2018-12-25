@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Nov 27 16:21:06 WAT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\BADI-PC\\Desktop\\1010255\\APP_SQLite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

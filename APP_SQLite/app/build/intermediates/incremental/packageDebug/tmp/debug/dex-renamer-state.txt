@@ -1,0 +1,4 @@
+#Sun Dec 09 22:42:21 WAT 2018
+base.0=C\:\\Users\\BADI-PC\\Desktop\\1010255\\APP_SQLite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
